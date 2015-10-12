@@ -1,0 +1,58 @@
+
+/* ---------- Color Module Styles ----------- */
+
+body,
+body.overlay {
+  color: #3b3b3b;
+}
+.comment .comment-arrow {
+  border-color: #63dbe2;
+}
+#page,
+#main-wrapper,
+#main-menu-links li a.active,
+#main-menu-links li.active-trail a {
+  background: #63dbe2;
+}
+.tabs ul.primary li a.active {
+  background-color: #63dbe2;
+}
+.tabs ul.primary li.active a {
+  background-color: #63dbe2;
+  border-bottom: 1px solid #63dbe2;
+}
+#header {
+  background-color: #f4ba7a;
+  background-image: -moz-linear-gradient(top, #ff7774 0%, #f4ba7a 100%);
+  background-image: -ms-linear-gradient(top, #ff7774 0%, #f4ba7a 100%);
+  background-image: -o-linear-gradient(top, #ff7774 0%, #f4ba7a 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ff7774), color-stop(1, #f4ba7a));
+  background-image: -webkit-linear-gradient(top, #ff7774 0%, #f4ba7a 100%);
+  background-image: linear-gradient(top, #ff7774 0%, #f4ba7a 100%);
+}
+a {
+  color: #0072b6;
+}
+a:hover,
+a:focus {
+  color: #0090e4;
+}
+a:active {
+  color: #24aeff;
+}
+.sidebar .block {
+  background-color: #ffffff;
+  border-color: #d0d0d0;
+}
+#page-wrapper,
+#footer-wrapper {
+  background: #bd31ae;
+}
+.region-header,
+.region-header a,
+.region-header li a.active,
+#name-and-slogan,
+#name-and-slogan a,
+#secondary-menu-links li a {
+  color: #fbeded;
+}
