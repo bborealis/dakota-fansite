@@ -12,7 +12,7 @@ _A drupal fan site for people and places named Dakota_
 _Make MySQL database named: dakotaFansite_  
 _Import database from sites/db-backup_  
 _Create MySQL user name: dakotaluvr & password: dakotaluvr1_  
-_Drupal login name: dkaotaAdmin & password: dak0taadm1n_
+_Drupal login name: dakotaAdmin & password: dak0taadm1n_
 
 ## Technologies Used
 
